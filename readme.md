@@ -42,6 +42,7 @@ As you may have noticed, issues are disabled. With the goal to keep the project 
 - [[backlinking]]
 - [[wikilinks]]
 - [[custom-markdown-preview-styles]]
+- [[note-properties]]
 
 \\\md
 - [[commands]]
