@@ -12,11 +12,14 @@
   },
   "files.defaultLanguage": "markdown",
   "files.exclude": {
-    "**/node_modules": true
+    "**/_site": true
   },
   "files.watcherExclude": {
-    "**/node_modules": true
+    "**/_site": true
   },
+  "foam.files.ignore": [
+    "_site/**/*"
+  ],
   "foam.edit.linkReferenceDefinitions": "off",
   "foam.openDailyNote.directory": "journal",
   "foam.openDailyNote.titleFormat": "fullDate",

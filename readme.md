@@ -40,7 +40,8 @@ As you may have noticed, issues are disabled. With the goal to keep the project 
 
 ## This is testing
 - [[backlinking]]
-- [[wikilinks
+- [[wikilinks]]
 
-\\\md- [[commands]]
+\\\md
+- [[commands]]
 \\\
