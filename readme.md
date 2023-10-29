@@ -38,9 +38,9 @@ As you may have noticed, issues are disabled. With the goal to keep the project 
 
 > <https://github.com/foambubble/foam>
 
-## This is testing
+## This is testing Sunday
 - [[backlinking]]
-- [[wikilinks]]
+- [[wikilinks
 
 \\\md
 - [[commands]]
